@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @NikolaiMironov
+- 👋 Hi, I’m Nikolay Mironov
 - 👀 I’m interested in everything connected with Technology
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently working as a DevOps Engineer
 - 📫 How to reach me linkedin.com/NikolayMironov
 
 <!---
